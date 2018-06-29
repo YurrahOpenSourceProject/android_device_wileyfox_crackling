@@ -19,7 +19,7 @@
 
 ## Device Picture
 
-![Wileyfox Swift](http://s.4pda.to/YstumqO2cI57cw7o9jBDUMREsvGDbWqz0jTna7xTz2z1jqJHnONSI.jpg "Wileyfox Swift")
+![Yarakfox Swift](https://pbs.twimg.com/profile_images/954785133831294976/vG0V3OMh.jpg "Yarakfox Swift")
 
 ## Copyright
 
